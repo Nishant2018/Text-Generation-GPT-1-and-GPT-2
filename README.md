@@ -1,6 +1,6 @@
 ## GPT-1 and GPT-2 Models
 
-### GPT-1
+### GPT-1   
 GPT-1 (Generative Pre-trained Transformer 1) was the first in the series of Generative Pre-trained Transformer models developed by OpenAI. Released in 2018, GPT-1 utilized the transformer architecture and was trained on a large corpus of text data. The key innovation of GPT-1 was the concept of pre-training a language model on a large dataset and then fine-tuning it for specific tasks. GPT-1 demonstrated significant improvements in various NLP tasks, laying the foundation for subsequent models.
 
 - **Architecture:** Transformer
